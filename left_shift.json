@@ -1,4 +1,4 @@
-{"rules": [
+"rules": [
           {
             "description": "Change left_shift to control+caps_lock if pressed alone for 300ms (by Kelly Hwong)",
             "manipulators": [
@@ -25,4 +25,4 @@
               }
             ]
           }
-        ]}
+        ]
